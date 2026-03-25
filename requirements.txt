@@ -15,10 +15,3 @@ notebook
 
 
 
-
-
-# Wrok flow
-
-# conda create -n weed-detect python=3.11 -y
-# conda activate weed-detect
-# pip install -r requirements.txt
